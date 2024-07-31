@@ -1,0 +1,3 @@
+JWT_SECRET_KEY='dsFNOCJVtiFFyIWrQefP0ntJRHi5j-8NpkEPVGAAZu8'
+RECAPTURE_SECRET='6Le1fBgqAAAAAOF3ekt2WSu7R1SuwkkXc2Lxmfn8'
+MONGO_URI='mongodb+srv://humzamo098:hMDgdVnnJ647xbXH@cluster0.rqotqsv.mongodb.net/'
